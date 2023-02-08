@@ -30,3 +30,17 @@ ul{
 ol{
    list-style-type: lower-roman;
 }
+
+#ol{
+    color: red;
+}
+body{
+    background-color: beige;
+}
+
+@media(max-width:600px){
+    body{
+        background-color: lavender;
+    }
+    
+}
